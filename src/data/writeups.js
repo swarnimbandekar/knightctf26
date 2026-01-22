@@ -16,7 +16,7 @@ http://23.239.26.112:8087/`,
             },
             {
                 type: "image",
-                src: "images/KnightShopAgain/dashboard.png",
+                src: "/images/KnightShopAgain/dashboard.png",
                 alt: "dashboard"
             },
             {
@@ -25,12 +25,12 @@ http://23.239.26.112:8087/`,
             },
             {
                 type: "image",
-                src: "images/KnightShopAgain/addcart.png",
+                src: "/images/KnightShopAgain/addcart.png",
                 alt: "addcart"
             },
             {
                 type: "image",
-                src: "images/KnightShopAgain/cart.png",
+                src: "/images/KnightShopAgain/cart.png",
                 alt: "cart"
             },
             {
@@ -39,7 +39,7 @@ http://23.239.26.112:8087/`,
             },
             {
                 type: "image",
-                src: "images/KnightShopAgain/flag.png",
+                src: "/images/KnightShopAgain/flag.png",
                 alt: "flag"
             }
         ],
@@ -60,7 +60,7 @@ http://23.239.26.112:8091/`,
             },
             {
                 type: "image",
-                src: "images/cloud/free.png",
+                src: "/images/cloud/free.png",
                 alt: "free"
             },
             {
@@ -88,7 +88,7 @@ http://23.239.26.112:8091/`,
             },
             {
                 type: "image",
-                src: "images/cloud/req.png",
+                src: "/images/cloud/req.png",
                 alt: "req"
             },
             {
@@ -110,7 +110,7 @@ Content-Type: application/json
             },
             {
                 type: "image",
-                src: "images/cloud/falg.png",
+                src: "/images/cloud/falg.png",
                 alt: "flag2"
             }
         ],
