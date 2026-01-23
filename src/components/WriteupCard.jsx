@@ -18,7 +18,7 @@ const WriteupCard = ({ writeup }) => {
                 onClick={() => setIsExpanded(!isExpanded)}
                 style={{ cursor: 'pointer' }}
             >
-                <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                <div className="card-header-title-group">
                     <h2 className="card-title">{writeup.title}</h2>
                     <span className="badge">{writeup.category}</span>
                 </div>
